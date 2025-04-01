@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CardKeySwing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CardKeySwing_jar</output-path>
+    <root id="archive" name="CardKeySwing.jar">
+      <element id="module-output" name="CardKeySwing" />
+    </root>
+  </artifact>
+</component>
